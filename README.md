@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Hello there!">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Hello there!" width="100%" style="max-width: 600px;">
 </p>
 
 - 🌱 I’m currently learning **ML libraries**
